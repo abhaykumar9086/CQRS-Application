@@ -1,0 +1,42 @@
+## Ignore Visual Studio files
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Ignore build results
+bin/
+obj/
+out/
+
+## Ignore NuGet packages
+packages/
+*.nupkg
+.nuget/
+
+## Ignore ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## User-specific files
+*.dbmdl
+*.bak
+
+## JetBrains Rider files
+.idea/
+
+## Windows Installer files
+Thumbs.db
+ehthumbs.db
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## Ignore VS Code settings
+.vscode/
+
